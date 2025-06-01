@@ -1,9 +1,9 @@
 const cacheName = "BCyclik-Manager-1.0";
 const contentToCache = [
     "Build/webGL.loader.js",
-    "Build/webGL.framework.js.gz",
-    "Build/webGL.data.gz",
-    "Build/webGL.wasm.gz",
+    "Build/webGL.framework.js",
+    "Build/webGL.data",
+    "Build/webGL.wasm",
     "TemplateData/style.css"
 
 ];
